@@ -1,0 +1,3 @@
+resources:
+- user-ca-bundle.yaml
+- proxy.yaml
